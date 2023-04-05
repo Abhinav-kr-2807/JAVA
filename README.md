@@ -30,7 +30,7 @@ student like prn, name, DoB, marks etc. Create an array of objects of
 Student class and perform operations like: Add students, Display, Search
 (by prn, by name, by position), Update/Edit and Delete.
 
-Assignment_3- Write a menu-driven Java Program for the following:
+Assignment_4- Write a menu-driven Java Program for the following:
 There are 52 cards in a deck, each of which belongs to one of four suits and one of 13 ranks. Represent a deck of cards as an array of
 Objects (*you may use the Vector class)
 1.  Use integers to encode the ranks and suits.
